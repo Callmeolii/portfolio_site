@@ -1,0 +1,129 @@
+{
+    "basics": {
+        "name": "Olana Korma",
+        "label": "Software Engineer",
+        "email": "",
+        "phone": "",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Software",
+        "job2": "Engineer",
+        "description": "Hello! I'm Olana! Your Software Engineering enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Addis Ababa, Ethiopia.",
+        "keywords": "personal,website,portfolio,template,kit,Olana,Korma,webdev,web,developer,Addis Ababa,Ethiopia,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Addis Ababa",
+            "country": "Eth",
+            "countryCode": "PH",
+            "region": "Pampanga"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "",
+                "url": "m",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "",
+                "url": "",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "olana korma",
+                "url": "https://github.com/callmeoli",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Telegram",
+                "username": "olana",
+                "url": "",
+                "x_icon": "fab fa-telegram-plane"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Software Engineering",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript", "React", "", "Linux"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Amharic",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
